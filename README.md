@@ -1,5 +1,5 @@
-<h1 align="center">MHDDoS - DDoS Attack Script With 57 Methods</h1>
-<em><h5 align="center">(Programming Language - Python 3)</h5></em>
+<h1 align="center">MHDDoS_CN - 拥有57种攻击方式的DDoS攻击</h1>
+<em><h5 align="center">(编程语言 - Python 3)</h5></em>
 
 <p align="center">
 <a href="#"><img alt="MH-DDoS forks" src="https://img.shields.io/github/forks/MatrixTM/MHDDoS?style=for-the-badge"></a>
