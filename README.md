@@ -146,7 +146,7 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 git clone https://github.com/MatrixTM/MHDDoS.git
 cd MHDDoS
 docker compose build
-# you can use the built image directly by uncommenting one line in the dockercompose
+# 你可以在dockercompose中删除注释来直接使用构建的镜像
 docker compose run -it --entrypoint /bin/bash mhddos
 
 ```
