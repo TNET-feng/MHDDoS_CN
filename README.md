@@ -86,11 +86,11 @@ python3 start.py tools
 
   
 <h1 align="center">
-Our social's💻
+我们的社交💻
   
 </h2> 
 
-<h1 style="color:red;text-align: center;" style="text-align: center;" align="center">Please do not use the "Issues" section to ask your questions!</h1>
+<h1 style="color:red;text-align: center;" style="text-align: center;" align="center">不要使用 "Issues" 提问!</h1>
 <div align="center">
    <img src="https://icon-library.com/images/github-icon-vector/github-icon-vector-27.jpg" width="64" height="64"/>
    <img src="https://brandlogos.net/wp-content/uploads/2021/11/discord-logo.png"  width="64" height="64" alt="discord" />
@@ -100,15 +100,15 @@ Our social's💻
  * [Matrix community Telegram channel](https://t.me/Matrix_Development)
  * [Matrix team Telegram Group](https://t.me/MatrixTMChat)
  * [GitHub](https://github.com/MatrixTM)
-### If u Like the project, leave a star on the repository!
+### 如果您喜欢该项目，请在存储库中留下一个星!
 
-## Downloads
+## 下载
 
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
+你可以从 [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases) 下载
 
-### Getting Started
+### 开始使用
 
-**Requirements**
+**依赖要求**
 
 * [dnspython](https://github.com/rthalley/dnspython)
 * [cfscrape](https://github.com/Anorov/cloudflare-scrape)
@@ -122,11 +122,11 @@ You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/re
 * [yarl](https://github.com/aio-libs/yarl)
 ---
 
-## Documentation
+## 文档
 
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
+你可以从 [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki) 阅读
 
-**Clone and Install Script**
+**克隆并安装**
 
 ```shell script
 git clone https://github.com/MatrixTM/MHDDoS.git
@@ -134,7 +134,7 @@ cd MHDDoS
 pip install -r requirements.txt
 ```
 
-**One-Line Installing on Fresh VPS**
+**在VPS上单线安装**
 
 ```shell script
 apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
@@ -157,14 +157,14 @@ docker compose run -it --entrypoint /bin/bash mhddos
 
 ---
 
-## Need a Cheap Server? 
+## 需要一个便宜的服务器? 
 
 <a href="https://pfcloud.io/aff.php?aff=80"><img src="https://github.com/user-attachments/assets/172b3543-982b-450e-937d-3c4f84764a4f" width="728" alt="pfcloud"></a>
-#### You can buy an 10Gbps cheap server from [PFcloud Hosting](https://pfcloud.io/aff.php?aff=80) with crypto (Scan Allowed).
+#### 您可以从 [PFcloud Hosting](https://pfcloud.io/aff.php?aff=80) 中购买10Gbps廉价服务器 (加密，允许扫描)
 
 
 
 
 <a href="https://zomro.com/vps?from=428115"><img src="https://i.postimg.cc/KcH7CG8b/vps.png" width="728" height="90" alt="zomro"></a>
-#### [Zomro Hosting](https://zomro.com/vps?from=428115) allows you to purchase an hourly server using crypto and completely anonymously.
+#### [Zomro Hosting](https://zomro.com/vps?from=428115) 允许您使用加密货币完全匿名购买小时服务器
 
