@@ -69,9 +69,9 @@ ___
   * <img src="https://icon-library.com/images/icon-ping/icon-ping-28.jpg" width="16" height="16" alt="icmp"> ICMP | ICMP 回显请求洪泛 (Layer3)
   * <img src="https://s6.uupload.ir/files/1059643_g8hp.png" width="16" height="16" alt="connection"> CONNECTION | 使用代理打开活动连接
   * <img src="https://ia803109.us.archive.org/27/items/source-engine-video-projects/source-engine-video-projects_itemimage.png" width="16" height="16" alt="vse"> VSE | 发送源引擎查询协议
-  * <img src="https://mycrackfree.com/wp-content/uploads/2018/08/TeamSpeak-Server-9.png" width="16" height="16" alt="teamspeak 3"> TS3 | 发送 TeamSpeak 3 状态 Ping 协议
-  * <img src="https://cdn2.downdetector.com/static/uploads/logo/75ef9fcabc1abea8fce0ebd0236a4132710fcb2e.png" width="16" height="16" alt="fivem"> FIVEM | 发送 FiveM 状态 Ping 协议
-  * <img src="https://github.com/user-attachments/assets/f40748bf-dd28-4294-b862-cb0acbc74eea" width="16" height="16" alt="fivem-token"> FIVEM-TOKEN | 发送 FiveM 确认令牌洪泛
+  * <img src="https://mycrackfree.com/wp-content/uploads/2018/08/TeamSpeak-Server-9.png" width="16" height="16" alt="teamspeak 3"> TS3 | TeamSpeak 3 状态查询
+  * <img src="https://cdn2.downdetector.com/static/uploads/logo/75ef9fcabc1abea8fce0ebd0236a4132710fcb2e.png" width="16" height="16" alt="fivem"> FIVEM | FiveM 状态查询
+  * <img src="https://github.com/user-attachments/assets/f40748bf-dd28-4294-b862-cb0acbc74eea" width="16" height="16" alt="fivem-token"> FIVEM-TOKEN | FiveM 令牌洪泛
   * <img src="https://cdn.iconscout.com/icon/free/png-512/redis-4-1175103.png" width="16" height="16" alt="mem"> MEM | Memcached 放大攻击
   * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-attack-icon.png" width="16" height="16" alt="ntp"> NTP | NTP 放大攻击
   * <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="16" height="16" alt="mcbot"> MCBOT | Minecraft(我的世界)机器人伪造攻击
