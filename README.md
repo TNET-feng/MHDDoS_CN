@@ -8,7 +8,7 @@
 <a href="#"><img alt="MH-DDoS 许可证" src="https://img.shields.io/github/license/TNET-feng/MHDDoS_CN?color=orange&style=for-the-badge"></a>
 <a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM 问题" src="https://img.shields.io/github/issues/TNET-feng/MHDDoS_CN?color=purple&style=for-the-badge"></a>
   
-<p align="center">未经所有者同意，禁止随意攻击</p>
+<p align="center">未经同意，禁止随意攻击</p>
 
 ___
 <p align="center">本翻译(未完成)由 <a href="https://github.com/MWFoL">MWFoL</a> 提供支持，用法暂不考虑翻译</p>
