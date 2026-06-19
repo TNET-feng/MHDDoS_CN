@@ -45,10 +45,10 @@ logger.setLevel("INFO")
 ctx: SSLContext = create_default_context(cafile=where())
 ctx.check_hostname = False
 ctx.verify_mode = CERT_NONE
-# Enforce only TLSv1.2+ (defense-in-depth: also disable older protocols explicitly)
+# 仅强制TLSv1.2+（明确禁用旧协议）
 if hasattr(ctx, "minimum_version") and hasattr(ssl, "TLSVersion"):
     ctx.minimum_version = ssl.TLSVersion.TLSv1_2
-# Disable insecure TLS versions for additional safety
+# 禁用不安全的TLS版本以提高安全性
 if hasattr(ssl, "OP_NO_TLSv1"):
     ctx.options |= ssl.OP_NO_TLSv1
 if hasattr(ssl, "OP_NO_TLSv1_1"):
