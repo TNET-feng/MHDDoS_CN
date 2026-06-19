@@ -126,7 +126,7 @@ python3 start.py tools
 
 ## 文档
 
-你可以从 [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki) 阅读
+你可以从 [GitHub Wiki_翻译](https://github.com/TNET-feng/MHDDoS_CN/wiki) 阅读
 
 **克隆并安装**
 
