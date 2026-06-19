@@ -56,7 +56,7 @@ ___
    * <img src="https://techcrunch.com/wp-content/uploads/2019/06/J2LlHqT3qJl0bG9Alpgc-1-730x438.png?w=730" width="16" height="16" alt="CloudFlare UnderAttack Mode"> CFBUAM | CloudFlare 攻击模式绕过
    * <img src="http://iclouddnsbypass.com/wp-content/uploads/2015/02/iCloudDNSBypassServer.ico" width="16" height="16" alt="bypass"> BYPASS |  绕过 Normal AntiDDoS
    * <img src="https://cdn-icons-png.flaticon.com/512/905/905568.png" width="16" height="16" alt="bypass"> BOMB |  使用codesenberg/bombardier 绕过
-   * 🔪 KILLER | 运行多个线程以杀死目标
+   * 🔪 KILLER | 多线程并发打瘫目标 / 多线程高并发攻击
    * 🧅 TOR | 绕过 onion 网站
 
 
@@ -78,8 +78,8 @@ ___
   * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft"> MINECRAFT | Minecraft(我的世界) 状态 Ping 协议
   * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft pe"> MCPE | Minecraft(我的世界) PE 状态 Ping 协议
   * <img src="https://cdn-icons-png.flaticon.com/512/2653/2653461.png" width="16" height="16" alt="dns"> DNS | DNS 放大攻击
-  * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-attack-icon.png" width="16" height="16" alt="chargen"> CHAR | Chargen 放大攻击
-  * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct5OvjSCpUftyRMm3evgdPOa-f8LbwJFO-A&usqp=CAU" width="16" height="16" alt="cldap"> CLDAP | Cldap 放大攻击
+  * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-attack-icon.png" width="16" height="16" alt="chargen"> CHAR | CHARGEN 放大攻击
+  * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct5OvjSCpUftyRMm3evgdPOa-f8LbwJFO-A&usqp=CAU" width="16" height="16" alt="cldap"> CLDAP | CLDAP 放大攻击
   * <img src="https://help.apple.com/assets/6171BD2C588E52621824409D/6171BD2D588E5262182440A4/en_US/8b631353e070420f47530bf95f1a7fae.png" width="16" height="16" alt="ard"> ARD | Apple(苹果) 远程桌面放大攻击
   * <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb__emote__esktop__onnection.png" width="16" height="16" alt="rdp"> RDP |  远程桌面协议放大攻击
 
