@@ -435,7 +435,7 @@ class Minecraft:
                               Minecraft.data(message.encode()))
 
 
-# noinspection PyBroadException,PyUnusedLocal
+# 不检查 PyBroadException,PyUnusedLocal
 class Layer4(Thread):
     _method: str
     _target: Tuple[str, int]
@@ -772,7 +772,7 @@ class Layer4(Thread):
                 self._amp_payloads = cycle(self._generate_amp())
 
 
-# noinspection PyBroadException,PyUnusedLocal
+# 不检查 PyBroadException,PyUnusedLocal
 class HttpFlood(Thread):
     _proxies: List[Proxy] = None
     _payload: str
