@@ -1566,7 +1566,7 @@ class ToolsConsole:
 
     @staticmethod
     def stop():
-        print('All Attacks has been Stopped !')
+        print('所有攻击已停止')
         for proc in process_iter():
             if proc.name() == "python.exe":
                 proc.kill()
