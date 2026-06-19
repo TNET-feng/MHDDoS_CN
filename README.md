@@ -11,7 +11,7 @@
 <p align="center">未经所有者同意，禁止随意攻击</p>
 <p align="center">本翻译(未完成)由 <a href="https://github.com/MWFoL">MWFoL</a> 提供支持，用法暂不考虑翻译</p>
 
-<p align="center">翻译不会随原版更新而更新(仅翻译这一次，如需更新我们翻译组)</p>
+<p align="center">翻译不会随原版更新而更新(仅翻译这一次，如需更新请联系我们翻译组)</p>
 
 <p align="center">相关指令地址暂时未替换至翻译版本！！！</p>
 
