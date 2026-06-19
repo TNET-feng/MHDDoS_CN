@@ -2,11 +2,11 @@
 <em><h5 align="center">(编程语言 - Python 3)</h5></em>
 
 <p align="center">
-<a href="#"><img alt="MH-DDoS 分支" src="https://img.shields.io/github/forks/MatrixTM/MHDDoS?style=for-the-badge"></a>
-<a href="#"><img alt="MH-DDoS 最后提交 (main)" src="https://img.shields.io/github/last-commit/MatrixTM/MHDDoS/main?color=green&style=for-the-badge"></a>
-<a href="#"><img alt="MH-DDoS 星" src="https://img.shields.io/github/stars/MatrixTM/MHDDoS?style=for-the-badge&color=yellow"></a>
-<a href="#"><img alt="MH-DDoS 许可证" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM 问题" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
+<a href="#"><img alt="MH-DDoS 分支" src="https://img.shields.io/github/forks/TNET-feng/MHDDoS_CN?style=for-the-badge"></a>
+<a href="#"><img alt="MH-DDoS 最后提交 (main)" src="https://img.shields.io/github/last-commit/TNET-feng/MHDDoS_CN/main?color=green&style=for-the-badge"></a>
+<a href="#"><img alt="MH-DDoS 星" src="https://img.shields.io/github/stars/TNET-feng/MHDDoS_CN?style=for-the-badge&color=yellow"></a>
+<a href="#"><img alt="MH-DDoS 许可证" src="https://img.shields.io/github/license/TNET-feng/MHDDoS_CN?color=orange&style=for-the-badge"></a>
+<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM 问题" src="https://img.shields.io/github/issues/TNET-feng/MHDDoS_CN?color=purple&style=for-the-badge"></a>
   
 <p align="center">未经所有者同意，禁止随意攻击</p>
 
