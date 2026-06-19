@@ -15,7 +15,7 @@ ___
 
 <p align="center">翻译官 <a href="https://github.com/TNET-feng">TNET-feng</a> </p>
 
-<p align="center"><a href="https://github.com/TNET-feng/ContactMe">联系翻译官</a></p>
+<p align="center"><a href="https://github.com/TNET-feng/ContactMe">联系翻译官</a>(见README.md)</p>
 
 ___
 
