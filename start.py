@@ -1574,9 +1574,9 @@ class ToolsConsole:
     @staticmethod
     def usage():
         print((
-                  '* MHDDoS - DDoS Attack Script With %d Methods\n'
-                  'Note: If the Proxy list is empty, The attack will run without proxies\n'
-                  '      If the Proxy file doesn\'t exist, the script will download proxies and check them.\n'
+                  '* MHDDoS_Cn - 有 %d 个攻击方法的DDoS攻击工具\n'
+                  '注意：如果代理列表为空，则攻击将在没有代理的情况下运行\n'
+                  '      如果代理文件不存在，脚本将下载代理并检查它们。\n'
                   '      Proxy Type 0 = All in config.json\n'
                   '      SocksTypes:\n'
                   '         - 6 = RANDOM\n'
@@ -1584,18 +1584,18 @@ class ToolsConsole:
                   '         - 4 = SOCKS4\n'
                   '         - 1 = HTTP\n'
                   '         - 0 = ALL\n'
-                  ' > Methods:\n'
+                  ' > 模式:\n'
                   ' - Layer4\n'
-                  ' | %s | %d Methods\n'
+                  ' | %s | %d 个方法\n'
                   ' - Layer7\n'
-                  ' | %s | %d Methods\n'
+                  ' | %s | %d 个方法\n'
                   ' - Tools\n'
-                  ' | %s | %d Methods\n'
+                  ' | %s | %d 个方法\n'
                   ' - Others\n'
-                  ' | %s | %d Methods\n'
-                  ' - All %d Methods\n'
+                  ' | %s | %d 个方法\n'
+                  ' - 共有 %d 个方法\n'
                   '\n'
-                  'Example:\n'
+                  '例如:\n'
                   '   L7: python3 %s <method> <url> <socks_type> <threads> <proxylist> <rpc> <duration> <debug=optional>\n'
                   '   L4: python3 %s <method> <ip:port> <threads> <duration>\n'
                   '   L4 Proxied: python3 %s <method> <ip:port> <threads> <duration> <socks_type> <proxylist>\n'
@@ -1609,7 +1609,7 @@ class ToolsConsole:
                len(Methods.ALL_METHODS) + 3 + len(ToolsConsole.METHODS),
                argv[0], argv[0], argv[0], argv[0]))
 
-    # noinspection PyBroadException
+    # 不检查 PyBroadException
     @staticmethod
     def ts_srv(domain):
         records = ['_ts3._udp.', '_tsdns._tcp.']
@@ -1628,7 +1628,7 @@ class ToolsConsole:
 
         return Info
 
-    # noinspection PyUnreachableCode
+    # 不检查 PyUnreachableCode
     @staticmethod
     def info(domain):
         with suppress(Exception), get(f"https://ipwhois.app/json/{domain}/") as s:
