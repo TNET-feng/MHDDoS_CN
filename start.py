@@ -1596,11 +1596,11 @@ class ToolsConsole:
                   ' - 共有 %d 个方法\n'
                   '\n'
                   '例如:\n'
-                  '   L7: python3 %s <method> <url> <socks_type> <threads> <proxylist> <rpc> <duration> <debug=optional>\n'
-                  '   L4: python3 %s <method> <ip:port> <threads> <duration>\n'
-                  '   L4 Proxied: python3 %s <method> <ip:port> <threads> <duration> <socks_type> <proxylist>\n'
-                  '   L4 Amplification: python3 %s <method> <ip:port> <threads> <duration> <reflector file (only use with'
-                  ' Amplification)>\n') %
+                  '   L7: python3 %s <模式> <url> <socks_类型> <线程数> <代理列表> <rpc> <时间> <调试=可选>\n'
+                  '   L4: python3 %s <模式> <ip:port> <线程数> <时间>\n'
+                  '   代理 L4 : python3 %s <模式> <ip:port> <线程数> <时间> <socks_类型> <代理列表>\n'
+                  '   放大 L4 : python3 %s <模式> <ip:port> <线程数> <时间> <反射器文件 (仅用于'
+                  ' 放大)>\n') %
               (len(Methods.ALL_METHODS) + 3 + len(ToolsConsole.METHODS),
                ", ".join(Methods.LAYER4_METHODS), len(Methods.LAYER4_METHODS),
                ", ".join(Methods.LAYER7_METHODS), len(Methods.LAYER7_METHODS),
