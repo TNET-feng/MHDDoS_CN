@@ -99,8 +99,8 @@ python3 start.py tools
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="64" height="64" alt="telegram" />
 </div>
 
- * [Matrix community Telegram channel](https://t.me/Matrix_Development)
- * [Matrix team Telegram Group](https://t.me/MatrixTMChat)
+ * [Matrix 社区 Telegram 频道](https://t.me/Matrix_Development)
+ * [Matrix 团队 Telegram 组](https://t.me/MatrixTMChat)
  * [GitHub](https://github.com/MatrixTM)
 ### 如果您喜欢该项目，请在存储库中留下一个星!
 
