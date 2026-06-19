@@ -87,12 +87,12 @@ ___
 `
 python3 start.py tools
 `
-  * 🌟 CFIP | 查找由 Cloudflare 提供支持的网站的真实IP地址
-  * 🔪 DNS | 显示站点的DNS记录
+  * 🌟 CFIP | Cloudflare 真实 IP 探测
+  * 🔪 DNS | 站点DNS记录查询
   * 📍  TSSRV | TeamSpeak SRV 解析
-  * ⚠  PING | PING 服务
-  * 📌 CHECK | 检查网站状态
-  * 😎 DSTAT | 显示接收的字节数、发送的字节数及其数量
+  * ⚠  PING | PING 连通性测试
+  * 📌 CHECK | 站点存活检测
+  * 😎 DSTAT | 实时流量统计
 
 * 🎩 其它
   * ❌ STOP | 停止所有攻击
