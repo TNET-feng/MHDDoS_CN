@@ -1,4 +1,4 @@
-<h1 align="center">MHDDoS_CN - 拥有57种攻击方法的工具</h1>
+<h1 align="center">MHDDoS_CN - 拥有 57 种攻击方法的工具</h1>
 <em><h5 align="center">(编程语言 - Python 3)</h5></em>
 
 <p align="center">
@@ -20,8 +20,6 @@ ___
 ___
 
 <p align="center">翻译不会随原版更新而更新(仅翻译这一次，如需更新请联系我们翻译组)</p>
-
-<p align="center">相关指令地址暂时未替换至翻译版本！！！</p>
 
 ___
 
@@ -75,8 +73,8 @@ ___
   * <img src="https://cdn.iconscout.com/icon/free/png-512/redis-4-1175103.png" width="16" height="16" alt="mem"> MEM | Memcached 放大攻击
   * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-attack-icon.png" width="16" height="16" alt="ntp"> NTP | NTP 放大攻击
   * <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="16" height="16" alt="mcbot"> MCBOT | Minecraft(我的世界)机器人伪造攻击
-  * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft"> MINECRAFT | Minecraft(我的世界)状态 Ping 协议
-  * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft pe"> MCPE | Minecraft(我的世界) PE 状态 Ping 协议
+  * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft"> MINECRAFT | Minecraft(我的世界)状态查询
+  * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft pe"> MCPE | Minecraft(我的世界) PE 状态查询
   * <img src="https://cdn-icons-png.flaticon.com/512/2653/2653461.png" width="16" height="16" alt="dns"> DNS | DNS 放大攻击
   * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-attack-icon.png" width="16" height="16" alt="chargen"> CHAR | CHARGEN 放大攻击
   * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct5OvjSCpUftyRMm3evgdPOa-f8LbwJFO-A&usqp=CAU" width="16" height="16" alt="cldap"> CLDAP | CLDAP 放大攻击
@@ -144,24 +142,24 @@ python3 start.py tools
 **克隆并安装**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
+git clone https://github.com/TNET-feng/MHDDoS_CN.git
+cd MHDDoS_CN
 pip install -r requirements.txt
 ```
 
 **在VPS上单线安装**
 
 ```shell script
-apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
+apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/TNET-feng/MHDDoS_CN.git && cd MH* && pip3 install -r requirements.txt
 ```
 
 **Docker**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
+git clone https://github.com/TNET-feng/MHDDoS_CN.git
+cd MHDDoS_CN
 docker compose build
-# 你可以在dockercompose中删除注释来直接使用构建的镜像
+# 你可以在 dockercompose 中删除注释来直接使用构建的镜像
 docker compose run -it --entrypoint /bin/bash mhddos
 
 ```
@@ -175,7 +173,7 @@ docker compose run -it --entrypoint /bin/bash mhddos
 ## 需要一个便宜的服务器? 
 
 <a href="https://pfcloud.io/aff.php?aff=80"><img src="https://github.com/user-attachments/assets/172b3543-982b-450e-937d-3c4f84764a4f" width="728" alt="pfcloud"></a>
-#### 您可以从 [PFcloud Hosting](https://pfcloud.io/aff.php?aff=80) 中购买10Gbps廉价服务器 (加密，允许扫描)
+#### 您可以从 [PFcloud Hosting](https://pfcloud.io/aff.php?aff=80) 中购买 10Gbps 廉价服务器 (加密，允许扫描)
 
 
 
