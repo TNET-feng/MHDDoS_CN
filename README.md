@@ -35,7 +35,7 @@ ___
    * <img src="https://ovh.github.io/manager/ovhcloud-logo.webp" width="16" height="16" alt="ovh"> OVH | OVH 绕过
    * <img src="https://cdn-icons-png.flaticon.com/512/1691/1691948.png" width="16" height="16" alt="ovh"> RHEX | 随机十六进制内容洪泛
    * <img src="https://cdn-icons-png.flaticon.com/512/4337/4337972.png" width="16" height="16" alt="ovh"> STOMP | 验证码绕过
-   * <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/cyber-bullying-2557797-2152371.png" width="16" height="16" alt="stress"> STRESS | 高字节 HTTP 洪泛
+   * <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/cyber-bullying-2557797-2152371.png" width="16" height="16" alt="stress"> STRESS | 大体积 HTTP 包洪泛
    * <img src="https://cdn.worldvectorlogo.com/logos/dyndns.svg" width="16" height="16" alt="dyn"> DYN | 随机子域名洪泛
    * <img src="https://cdn-icons-png.flaticon.com/512/6991/6991643.png" width="16" height="16" alt="downloader"> DOWNLOADER | 慢速下载攻击
    * <img src="https://cdn2.iconfinder.com/data/icons/poison-and-venom-fill/160/loris2-512.png" width="16" height="16" alt="slow"> SLOW | Slowloris 攻击
@@ -62,7 +62,7 @@ ___
   * <img src="https://raw.githubusercontent.com/kgretzky/pwndrop/master/media/pwndrop-logo-512.png" width="16" height="16" alt="tcp"> TCP | TCP 洪泛绕过攻击
   * <img src="https://styles.redditmedia.com/t5_2rxmiq/styles/profileIcon_snoob94cdb09-c26c-4c24-bd0c-66238623cc22-headshot.png" width="16" height="16" alt="udp"> UDP | UDP 洪泛绕过攻击
   * <img src="https://cdn-icons-png.flaticon.com/512/1918/1918576.png" width="16" height="16" alt="syn"> SYN | SYN 洪泛攻击
-  * <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" width="16" height="16" alt="ovh"> OVH-UDP | 使用随机HTTP头和二进制负载的UDP洪泛（以绕过OVH和WAF）
+  * <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" width="16" height="16" alt="ovh"> OVH-UDP | 使用随机 HTTP 头和二进制负载的 UDP 洪泛（以绕过 OVH 和 WAF ）
   * <img src="https://cdn-icons-png.flaticon.com/512/1017/1017466.png" width="16" height="16" alt="cps"> CPS | 代理连接洪泛
   * <img src="https://icon-library.com/images/icon-ping/icon-ping-28.jpg" width="16" height="16" alt="icmp"> ICMP | ICMP 回显请求洪泛 （Layer3）
   * <img src="https://s6.uupload.ir/files/1059643_g8hp.png" width="16" height="16" alt="connection"> CONNECTION | 代理长连接保持
@@ -113,7 +113,7 @@ python3 start.py tools
  * [Matrix 社区 Telegram 频道](https://t.me/Matrix_Development)
  * [Matrix 团队 Telegram 组](https://t.me/MatrixTMChat)
  * [GitHub](https://github.com/MatrixTM)
-### 如果您喜欢该项目，请在存储库中留下一个星!
+### 如果您喜欢该项目，请在存储库中点一个 Star ！
 
 ## 下载
 
@@ -173,7 +173,7 @@ docker compose run -it --entrypoint /bin/bash mhddos
 ## 需要一个便宜的服务器? 
 
 <a href="https://pfcloud.io/aff.php?aff=80"><img src="https://github.com/user-attachments/assets/172b3543-982b-450e-937d-3c4f84764a4f" width="728" alt="pfcloud"></a>
-#### 您可以从 [PFcloud Hosting](https://pfcloud.io/aff.php?aff=80) 中购买 10Gbps 廉价服务器 (加密，允许扫描)
+#### 您可以从 [PFcloud Hosting](https://pfcloud.io/aff.php?aff=80) 中购买 10Gbps 廉价服务器 （加密，允许扫描）
 
 
 
