@@ -1,20 +1,19 @@
-# much smaller image than debian based python images
 FROM python:3.12-slim
 
 LABEL maintainer="0xkatana"
 
 WORKDIR /app
 
-# Install git 
+# 安装 git 
 RUN apt-get update && apt-get install -y git && apt-get clean
 
-# copy requirements.txt for better caching 
+# 复制 requirements.txt 
 COPY requirements.txt .
 
-# Install py dependencies (may migrate to uv later)
+# 安装 py 依赖 (稍候可能会迁移到 uv)
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy all code at once  instead of copy code then files 
-COPY . .
+# 一次复制所有代码，而不是复制代码然后复制文件
+复制……
 
 ENTRYPOINT ["python", "start.py"]
