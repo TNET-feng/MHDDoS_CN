@@ -15,6 +15,10 @@ ___
 
 <p align="center">翻译官 <a href="https://github.com/TNET-feng">TNET-feng</a> </p>
 
+<p align="center"><a href="https://github.com/TNET-feng/ContactMe">联系翻译官</a></p>
+
+___
+
 <p align="center">翻译不会随原版更新而更新(仅翻译这一次，如需更新请联系我们翻译组)</p>
 
 <p align="center">相关指令地址暂时未替换至翻译版本！！！</p>
