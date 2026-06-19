@@ -106,7 +106,7 @@ python3 start.py tools
 
 ## 下载
 
-你可以从 [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases) 下载
+你可以从 [GitHub Releases_原版](https://github.com/MatrixTM/MHDDoS/releases) 下载
 
 ### 开始使用
 
