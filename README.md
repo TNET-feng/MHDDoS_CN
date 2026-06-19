@@ -1,12 +1,12 @@
 <h1 align="center">MHDDoS_CN - 拥有 57 种攻击方法的工具</h1>
-<em><h5 align="center">(编程语言 - Python 3)</h5></em>
+<em><h5 align="center">（编程语言 - Python 3）</h5></em>
 
 <p align="center">
-<a href="#"><img alt="MH-DDoS 分支" src="https://img.shields.io/github/forks/TNET-feng/MHDDoS_CN?style=for-the-badge"></a>
+<a href="#"><img alt="MH-DDoS Fork" src="https://img.shields.io/github/forks/TNET-feng/MHDDoS_CN?style=for-the-badge"></a>
 <a href="#"><img alt="MH-DDoS 最后提交 (main)" src="https://img.shields.io/github/last-commit/TNET-feng/MHDDoS_CN/main?color=green&style=for-the-badge"></a>
-<a href="#"><img alt="MH-DDoS 星" src="https://img.shields.io/github/stars/TNET-feng/MHDDoS_CN?style=for-the-badge&color=yellow"></a>
+<a href="#"><img alt="MH-DDoS 星标" src="https://img.shields.io/github/stars/TNET-feng/MHDDoS_CN?style=for-the-badge&color=yellow"></a>
 <a href="#"><img alt="MH-DDoS 许可证" src="https://img.shields.io/github/license/TNET-feng/MHDDoS_CN?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM 问题" src="https://img.shields.io/github/issues/TNET-feng/MHDDoS_CN?color=purple&style=for-the-badge"></a>
+<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM Issue" src="https://img.shields.io/github/issues/TNET-feng/MHDDoS_CN?color=purple&style=for-the-badge"></a>
   
 <p align="center">未经同意，禁止随意攻击</p>
 
@@ -15,11 +15,11 @@ ___
 
 <p align="center">项目翻译官 <a href="https://github.com/TNET-feng">TNET-feng</a> </p>
 
-<p align="center"><a href="https://github.com/TNET-feng/ContactMe">联系翻译官</a>(见README.md)</p>
+<p align="center"><a href="https://github.com/TNET-feng/ContactMe">联系翻译官</a>（见README.md）</p>
 
 ___
 
-<p align="center">翻译不会随原版更新而更新(仅翻译这一次，如需更新请联系我们翻译组)</p>
+<p align="center">翻译不会随原版更新而更新（仅翻译这一次，如需更新请联系我们翻译组）</p>
 
 ___
 
@@ -43,28 +43,28 @@ ___
    * <img src="https://img.icons8.com/plasticine/2x/null-symbol.png" width="16" height="16" alt="null"> NULL | 空 User-Agent
    * <img src="https://i.pinimg.com/originals/03/2e/7d/032e7d0755cd511c753bcb6035d44f68.png" width="16" height="16" alt="cookie"> COOKIE | 随机 Cookie PHP 'if (isset($_COOKIE))'
    * <img src="https://cdn0.iconfinder.com/data/icons/dicticons-files-folders/32/office_pps-512.png" width="16" height="16" alt="pps"> PPS |  仅发送 'GET / HTTP/1.1\r\n\r\n'
-   * <img src="https://cdn3.iconfinder.com/data/icons/internet-security-14/48/DDoS_website_webpage_bomb_virus_protection-512.png" width="16" height="16" alt="even"> EVEN | GET (带有更多请求头)
+   * <img src="https://cdn3.iconfinder.com/data/icons/internet-security-14/48/DDoS_website_webpage_bomb_virus_protection-512.png" width="16" height="16" alt="even"> EVEN | GET （带有更多请求头）
    * <img src="https://iili.io/HU9BC74.png" width="16" height="16" alt="googleshield"> GSB | Google Project Shield 绕过
-   * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DDoS-Guard_logo.svg/1200px-DDoS-Guard_logo.svg.png" width="16" height="16" alt="DDoSGuard"> DGB | DDoS防护 绕过
+   * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DDoS-Guard_logo.svg/1200px-DDoS-Guard_logo.svg.png" width="16" height="16" alt="DDoSGuard"> DGB | DDoS 防护绕过
    * <img src="https://i.imgur.com/bGL8qfw.png" width="16" height="16" alt="ArvanCloud"> AVB | Arvan Cloud 绕过
    * <img src="https://iili.io/HU9BC74.png" width="16" height="16" alt="Google bot"> BOT | Google 机器人伪造攻击
    * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Apache_HTTP_Server_Logo_%282016%29.svg/1000px-Apache_HTTP_Server_Logo_%282016%29.svg.png" width="16" height="16" alt="Apache Webserver"> APACHE | Apache 漏洞利用
-   * <img src="https://icon-library.com/images/icon-for-wordpress/icon-for-wordpress-16.jpg" width="16" height="16" alt="wordpress expliot"> XMLRPC | WP XMLRPC 漏洞利用 (添加 /xmlrpc.php)
+   * <img src="https://icon-library.com/images/icon-for-wordpress/icon-for-wordpress-16.jpg" width="16" height="16" alt="wordpress expliot"> XMLRPC | WP XMLRPC 漏洞利用 （添加 /xmlrpc.php）
    * <img src="https://techcrunch.com/wp-content/uploads/2019/06/J2LlHqT3qJl0bG9Alpgc-1-730x438.png?w=730" width="16" height="16" alt="CloudFlare"> CFB | CloudFlare 绕过
    * <img src="https://techcrunch.com/wp-content/uploads/2019/06/J2LlHqT3qJl0bG9Alpgc-1-730x438.png?w=730" width="16" height="16" alt="CloudFlare UnderAttack Mode"> CFBUAM | CloudFlare 攻击模式绕过
    * <img src="http://iclouddnsbypass.com/wp-content/uploads/2015/02/iCloudDNSBypassServer.ico" width="16" height="16" alt="bypass"> BYPASS |  常规 AntiDDoS 绕过
    * <img src="https://cdn-icons-png.flaticon.com/512/905/905568.png" width="16" height="16" alt="bypass"> BOMB |  基于 codesenberg/bombardier 高速绕过
    * 🔪 KILLER | 多线程并发打瘫目标 / 多线程高并发攻击
-   * 🧅 TOR | TOR隐藏服务攻击
+   * 🧅 TOR | TOR 隐藏服务攻击
 
 
 * 🧨 Layer4: 
   * <img src="https://raw.githubusercontent.com/kgretzky/pwndrop/master/media/pwndrop-logo-512.png" width="16" height="16" alt="tcp"> TCP | TCP 洪泛绕过攻击
   * <img src="https://styles.redditmedia.com/t5_2rxmiq/styles/profileIcon_snoob94cdb09-c26c-4c24-bd0c-66238623cc22-headshot.png" width="16" height="16" alt="udp"> UDP | UDP 洪泛绕过攻击
   * <img src="https://cdn-icons-png.flaticon.com/512/1918/1918576.png" width="16" height="16" alt="syn"> SYN | SYN 洪泛攻击
-  * <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" width="16" height="16" alt="ovh"> OVH-UDP | 使用随机HTTP头和二进制负载的UDP洪泛(以绕过OVH和WAF)
+  * <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" width="16" height="16" alt="ovh"> OVH-UDP | 使用随机HTTP头和二进制负载的UDP洪泛（以绕过OVH和WAF）
   * <img src="https://cdn-icons-png.flaticon.com/512/1017/1017466.png" width="16" height="16" alt="cps"> CPS | 代理连接洪泛
-  * <img src="https://icon-library.com/images/icon-ping/icon-ping-28.jpg" width="16" height="16" alt="icmp"> ICMP | ICMP 回显请求洪泛 (Layer3)
+  * <img src="https://icon-library.com/images/icon-ping/icon-ping-28.jpg" width="16" height="16" alt="icmp"> ICMP | ICMP 回显请求洪泛 （Layer3）
   * <img src="https://s6.uupload.ir/files/1059643_g8hp.png" width="16" height="16" alt="connection"> CONNECTION | 代理长连接保持
   * <img src="https://ia803109.us.archive.org/27/items/source-engine-video-projects/source-engine-video-projects_itemimage.png" width="16" height="16" alt="vse"> VSE | 发送源引擎查询协议
   * <img src="https://mycrackfree.com/wp-content/uploads/2018/08/TeamSpeak-Server-9.png" width="16" height="16" alt="teamspeak 3"> TS3 | TeamSpeak 3 状态查询
@@ -72,13 +72,13 @@ ___
   * <img src="https://github.com/user-attachments/assets/f40748bf-dd28-4294-b862-cb0acbc74eea" width="16" height="16" alt="fivem-token"> FIVEM-TOKEN | FiveM 令牌洪泛
   * <img src="https://cdn.iconscout.com/icon/free/png-512/redis-4-1175103.png" width="16" height="16" alt="mem"> MEM | Memcached 放大攻击
   * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-attack-icon.png" width="16" height="16" alt="ntp"> NTP | NTP 放大攻击
-  * <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="16" height="16" alt="mcbot"> MCBOT | Minecraft(我的世界)机器人伪造攻击
-  * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft"> MINECRAFT | Minecraft(我的世界)状态查询
-  * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft pe"> MCPE | Minecraft(我的世界) PE 状态查询
+  * <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="16" height="16" alt="mcbot"> MCBOT | Minecraft（我的世界）机器人伪造攻击
+  * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft"> MINECRAFT | Minecraft（我的世界）状态查询
+  * <img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="16" height="16" alt="minecraft pe"> MCPE | Minecraft（我的世界） PE 状态查询
   * <img src="https://cdn-icons-png.flaticon.com/512/2653/2653461.png" width="16" height="16" alt="dns"> DNS | DNS 放大攻击
   * <img src="https://lyrahosting.com/wp-content/uploads/2020/06/ddos-attack-icon.png" width="16" height="16" alt="chargen"> CHAR | CHARGEN 放大攻击
   * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct5OvjSCpUftyRMm3evgdPOa-f8LbwJFO-A&usqp=CAU" width="16" height="16" alt="cldap"> CLDAP | CLDAP 放大攻击
-  * <img src="https://help.apple.com/assets/6171BD2C588E52621824409D/6171BD2D588E5262182440A4/en_US/8b631353e070420f47530bf95f1a7fae.png" width="16" height="16" alt="ard"> ARD | Apple(苹果)远程桌面放大攻击
+  * <img src="https://help.apple.com/assets/6171BD2C588E52621824409D/6171BD2D588E5262182440A4/en_US/8b631353e070420f47530bf95f1a7fae.png" width="16" height="16" alt="ard"> ARD | Apple（苹果）远程桌面放大攻击
   * <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb__emote__esktop__onnection.png" width="16" height="16" alt="rdp"> RDP |  远程桌面协议放大攻击
 
 * ⚙️ 工具 - 运行于 
@@ -86,7 +86,7 @@ ___
 python3 start.py tools
 `
   * 🌟 CFIP | Cloudflare 真实 IP 探测
-  * 🔪 DNS | 站点DNS记录查询
+  * 🔪 DNS | 站点 DNS 记录查询
   * 📍  TSSRV | TeamSpeak SRV 解析
   * ⚠  PING | PING 连通性测试
   * 📌 CHECK | 站点存活检测
@@ -94,12 +94,12 @@ python3 start.py tools
 
 * 🎩 其它
   * ❌ STOP | 停止所有攻击
-  * 🌠 TOOLS | 控制台
-  * 👑 HELP | 显示帮助
+  * 🌠 TOOLS | 工具菜单
+  * 👑 HELP | 帮助信息
 
   
-<h1 align="center">
-联系我们(Matrix.非翻译组)💻
+<h2 align="center">
+联系我们（Matrix.非翻译组）💻
   
 </h2> 
 
