@@ -13,7 +13,7 @@
 ___
 <p align="center">本翻译(未完成)由 <a href="https://github.com/MWFoL">MWFoL</a> 提供支持，用法暂不考虑翻译</p>
 
-<p align="center">翻译官 <a href="https://github.com/TNET-feng">TNET-feng</a> </p>
+<p align="center">项目翻译官 <a href="https://github.com/TNET-feng">TNET-feng</a> </p>
 
 <p align="center"><a href="https://github.com/TNET-feng/ContactMe">联系翻译官</a>(见README.md)</p>
 
