@@ -9,11 +9,15 @@
 <a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM 问题" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
   
 <p align="center">未经所有者同意，禁止随意攻击</p>
+
+___
 <p align="center">本翻译(未完成)由 <a href="https://github.com/MWFoL">MWFoL</a> 提供支持，用法暂不考虑翻译</p>
 
 <p align="center">翻译不会随原版更新而更新(仅翻译这一次，如需更新请联系我们翻译组)</p>
 
 <p align="center">相关指令地址暂时未替换至翻译版本！！！</p>
+
+___
 
 <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
 <p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p>
