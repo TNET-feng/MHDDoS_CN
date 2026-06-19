@@ -55,9 +55,9 @@ ___
    * <img src="https://techcrunch.com/wp-content/uploads/2019/06/J2LlHqT3qJl0bG9Alpgc-1-730x438.png?w=730" width="16" height="16" alt="CloudFlare"> CFB | CloudFlare 绕过
    * <img src="https://techcrunch.com/wp-content/uploads/2019/06/J2LlHqT3qJl0bG9Alpgc-1-730x438.png?w=730" width="16" height="16" alt="CloudFlare UnderAttack Mode"> CFBUAM | CloudFlare 攻击模式绕过
    * <img src="http://iclouddnsbypass.com/wp-content/uploads/2015/02/iCloudDNSBypassServer.ico" width="16" height="16" alt="bypass"> BYPASS |  常规 AntiDDoS 绕过
-   * <img src="https://cdn-icons-png.flaticon.com/512/905/905568.png" width="16" height="16" alt="bypass"> BOMB |  使用codesenberg/bombardier 绕过
+   * <img src="https://cdn-icons-png.flaticon.com/512/905/905568.png" width="16" height="16" alt="bypass"> BOMB |  基于 codesenberg/bombardier 高速绕过
    * 🔪 KILLER | 多线程并发打瘫目标 / 多线程高并发攻击
-   * 🧅 TOR | 绕过 onion 网站
+   * 🧅 TOR | TOR隐藏服务攻击
 
 
 * 🧨 Layer4: 
