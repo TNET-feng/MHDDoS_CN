@@ -36,7 +36,7 @@ ___
    * <img src="https://cdn0.iconfinder.com/data/icons/database-storage-5/60/server__database__fire__burn__safety-512.png" width="16" height="16" alt="post"> POST | POST 洪泛攻击
    * <img src="https://ovh.github.io/manager/ovhcloud-logo.webp" width="16" height="16" alt="ovh"> OVH | OVH 绕过
    * <img src="https://cdn-icons-png.flaticon.com/512/1691/1691948.png" width="16" height="16" alt="ovh"> RHEX | 随机十六进制内容洪泛
-   * <img src="https://cdn-icons-png.flaticon.com/512/4337/4337972.png" width="16" height="16" alt="ovh"> STOMP | 绕过 chk_captcha
+   * <img src="https://cdn-icons-png.flaticon.com/512/4337/4337972.png" width="16" height="16" alt="ovh"> STOMP | 验证码绕过
    * <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/cyber-bullying-2557797-2152371.png" width="16" height="16" alt="stress"> STRESS | 高字节 HTTP 洪泛
    * <img src="https://cdn.worldvectorlogo.com/logos/dyndns.svg" width="16" height="16" alt="dyn"> DYN | 随机子域名洪泛
    * <img src="https://cdn-icons-png.flaticon.com/512/6991/6991643.png" width="16" height="16" alt="downloader"> DOWNLOADER | 慢速下载攻击
@@ -54,7 +54,7 @@ ___
    * <img src="https://icon-library.com/images/icon-for-wordpress/icon-for-wordpress-16.jpg" width="16" height="16" alt="wordpress expliot"> XMLRPC | 利用 WP XMLRPC 漏洞 (添加 /xmlrpc.php)
    * <img src="https://techcrunch.com/wp-content/uploads/2019/06/J2LlHqT3qJl0bG9Alpgc-1-730x438.png?w=730" width="16" height="16" alt="CloudFlare"> CFB | CloudFlare 绕过
    * <img src="https://techcrunch.com/wp-content/uploads/2019/06/J2LlHqT3qJl0bG9Alpgc-1-730x438.png?w=730" width="16" height="16" alt="CloudFlare UnderAttack Mode"> CFBUAM | CloudFlare 攻击模式绕过
-   * <img src="http://iclouddnsbypass.com/wp-content/uploads/2015/02/iCloudDNSBypassServer.ico" width="16" height="16" alt="bypass"> BYPASS |  绕过 Normal AntiDDoS
+   * <img src="http://iclouddnsbypass.com/wp-content/uploads/2015/02/iCloudDNSBypassServer.ico" width="16" height="16" alt="bypass"> BYPASS |  常规 AntiDDoS 绕过
    * <img src="https://cdn-icons-png.flaticon.com/512/905/905568.png" width="16" height="16" alt="bypass"> BOMB |  使用codesenberg/bombardier 绕过
    * 🔪 KILLER | 多线程并发打瘫目标 / 多线程高并发攻击
    * 🧅 TOR | 绕过 onion 网站
