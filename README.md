@@ -65,7 +65,7 @@ ___
   * <img src="https://styles.redditmedia.com/t5_2rxmiq/styles/profileIcon_snoob94cdb09-c26c-4c24-bd0c-66238623cc22-headshot.png" width="16" height="16" alt="udp"> UDP | UDP 洪泛绕过攻击
   * <img src="https://cdn-icons-png.flaticon.com/512/1918/1918576.png" width="16" height="16" alt="syn"> SYN | SYN 洪泛攻击
   * <img src="https://images.icon-icons.com/2407/PNG/512/ovh_icon_146131.png" width="16" height="16" alt="ovh"> OVH-UDP | 使用随机HTTP头和二进制负载的UDP洪泛(以绕过OVH和WAF)
-  * <img src="https://cdn-icons-png.flaticon.com/512/1017/1017466.png" width="16" height="16" alt="cps"> CPS | 使用代理打开和关闭连接
+  * <img src="https://cdn-icons-png.flaticon.com/512/1017/1017466.png" width="16" height="16" alt="cps"> CPS | 代理连接洪泛
   * <img src="https://icon-library.com/images/icon-ping/icon-ping-28.jpg" width="16" height="16" alt="icmp"> ICMP | ICMP 回显请求洪泛 (Layer3)
   * <img src="https://s6.uupload.ir/files/1059643_g8hp.png" width="16" height="16" alt="connection"> CONNECTION | 代理长连接保持
   * <img src="https://ia803109.us.archive.org/27/items/source-engine-video-projects/source-engine-video-projects_itemimage.png" width="16" height="16" alt="vse"> VSE | 发送源引擎查询协议
