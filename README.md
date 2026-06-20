@@ -23,7 +23,7 @@ ___
 
 ___
 
-<p align="center"><span style="color:red;">此翻译版本删除了 Docker Image CI !</span></p>
+<p align="center"><span style="color:red;">此翻译版本删除了 Docker Image CI 和 Dockerfile !</span></p>
 
 ___
 
