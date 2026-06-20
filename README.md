@@ -1,4 +1,4 @@
-<h1 align="center">MHDDoS_CN - 拥有 57 种攻击方法的工具</h1>
+<h1 align="center">MHDDoS_CN - 拥有 57 种攻击模式的工具</h1>
 <em><h5 align="center">（编程语言 - Python 3）</h5></em>
 
 <p align="center">
