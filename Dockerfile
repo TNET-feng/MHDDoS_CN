@@ -14,6 +14,6 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # 一次复制所有代码，而不是复制代码然后复制文件
-复制……
+COPY . .
 
 ENTRYPOINT ["python", "start.py"]
