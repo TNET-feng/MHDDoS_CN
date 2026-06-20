@@ -23,6 +23,11 @@ ___
 
 ___
 
+<p align="center"><span style="color:red;">此翻译版本删除了 Docker Image CI !</span></p>
+
+___
+
+
 <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
 <p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p>
 
