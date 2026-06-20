@@ -28,9 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: |
-             ghcr.io/${{ github.repository_owner | toLower }}/mhddos_cn:${{ github.sha }}
-             ghcr.io/${{ github.repository_owner | toLower }}/mhddos_cn:latest
-
-
-  
+          tags: ghcr.io/tnet-feng/mhddos_cn:${{ github.sha }},ghcr.io/tnet-feng/mhddos_cn:latest
