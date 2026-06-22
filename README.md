@@ -170,16 +170,3 @@ docker compose run -it --entrypoint /bin/bash mhddos
 [python3]: https://python.org 'Python3'
 [github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
 
----
-
-## 需要一个便宜的服务器? 
-
-<a href="https://pfcloud.io/aff.php?aff=80"><img src="https://github.com/user-attachments/assets/172b3543-982b-450e-937d-3c4f84764a4f" width="728" alt="pfcloud"></a>
-#### 您可以从 [PFcloud Hosting](https://pfcloud.io/aff.php?aff=80) 中购买 10Gbps 廉价服务器 （加密，允许扫描）
-
-
-
-
-<a href="https://zomro.com/vps?from=428115"><img src="https://i.postimg.cc/KcH7CG8b/vps.png" width="728" height="90" alt="zomro"></a>
-#### [Zomro Hosting](https://zomro.com/vps?from=428115) 允许您使用加密货币完全匿名购买小时服务器
-
