@@ -20,7 +20,7 @@ ___
 ---
 <p align="center">注意：翻译不会随原版更新而更新（如需更新请联系翻译官），用法暂不考虑翻译<p>
 
-<p align="center"><span style="color:red;">此翻译版本删除了 Docker Image CI 和 Dockerfile !</span></p>
+<p align="center"><span style="color:red;">此翻译版本删除了 Docker Image CI 、 Dockerfile 和原版广告 !</span></p>
 
 ___
 
